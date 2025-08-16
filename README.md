@@ -33,16 +33,16 @@ pip install pygame
 
 📁 File Structure
 snakegame/
-├── snake_game.py               # Main game code
-├── highscore.txt               # Stores the high score
-├── bg.jpg                      # Game background image
-├── snake (2).png               # Home screen image
-└── sounds/
+├── snake_game.py               # Main game code                                                                                                                                        
+├── highscore.txt               # Stores the high score                                                                                                                         
+├── bg.jpg                      # Game background image                                                                                                                              
+├── snake (2).png               # Home screen image                                                                                                                                   
+└── sounds/                                                                                                                                                           
     ├── spiderman-meme-song.mp3
-    ├── Run-Amok(chosic.com).mp3
-    ├── anime-wow-sound-effect.mp3
-    ├── achievement-video-game-type-1-230515.mp3
-    └── baby-laughing-meme.mp3
+    ├── Run-Amok(chosic.com).mp3                                                                                                                           
+    ├── anime-wow-sound-effect.mp3                                                                                                                                                    
+    ├── achievement-video-game-type-1-230515.mp3                                                                                                                                                       
+    └── baby-laughing-meme.mp3                                                                                                                                       
 
 
 📌 Note: Make sure the image and sound file paths in the code are valid on your system. You can use relative paths instead of absolute ones for better portability.
