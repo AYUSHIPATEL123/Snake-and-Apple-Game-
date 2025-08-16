@@ -32,13 +32,13 @@ Install dependencies using:
 pip install pygame
 
 📁 File Structure
-snakegame/
+snakegame/                                                                                                                                                 
 ├── snake_game.py               # Main game code                                                                                                                                        
 ├── highscore.txt               # Stores the high score                                                                                                                         
 ├── bg.jpg                      # Game background image                                                                                                                              
 ├── snake (2).png               # Home screen image                                                                                                                                   
 └── sounds/                                                                                                                                                           
-    ├── spiderman-meme-song.mp3
+    ├── spiderman-meme-song.mp3                                                                                                                 
     ├── Run-Amok(chosic.com).mp3                                                                                                                           
     ├── anime-wow-sound-effect.mp3                                                                                                                                                    
     ├── achievement-video-game-type-1-230515.mp3                                                                                                                                                       
